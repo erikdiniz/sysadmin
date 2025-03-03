@@ -8,7 +8,7 @@ menu="\nEscolha uma opção:
 
 echo -e $menu
 
-while [ "$opcao" != "4" ]
+while [ true ]
 do
     read -p "Opção: " opcao 
 
