@@ -1,5 +1,4 @@
 #!/bin/bash
-# Erik Diniz Beserra - 122110747
 
 MENU="\n----------------------------
 \n      Menu de Opções        
